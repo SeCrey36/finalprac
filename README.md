@@ -17,7 +17,7 @@
 ### 2. Создание и активация виртуального окружения
 - **С помощью Anaconda Navigator**: Создайте виртуальное окружение с версией Python 3.7.
 - **С помощью Conda**:
-`conda create --name prac python=3.8` 
+`conda create --name prac python=3.7` 
 
 ### 3. Активация виртуального окружения
 -   **Anaconda**: Откройте Anaconda Prompt и активируйте окружение:
